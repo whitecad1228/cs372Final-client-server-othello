@@ -1,4 +1,4 @@
-# LLM quest generator
+# Client server Othello
 
 Simple overview of use/purpose.
 
